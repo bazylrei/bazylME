@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bazylME/static/css/main.073c9b0a.css",
-    "main.js": "/bazylME/static/js/main.f40be126.js",
-    "static/js/787.26ba3eb8.chunk.js": "/bazylME/static/js/787.26ba3eb8.chunk.js",
-    "static/media/logo.svg": "/bazylME/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/bazylME/index.html",
-    "main.073c9b0a.css.map": "/bazylME/static/css/main.073c9b0a.css.map",
-    "main.f40be126.js.map": "/bazylME/static/js/main.f40be126.js.map",
-    "787.26ba3eb8.chunk.js.map": "/bazylME/static/js/787.26ba3eb8.chunk.js.map"
+    "main.css": "/www.bazyl.me/static/css/main.073c9b0a.css",
+    "main.js": "/www.bazyl.me/static/js/main.5fba7dd8.js",
+    "static/js/787.26ba3eb8.chunk.js": "/www.bazyl.me/static/js/787.26ba3eb8.chunk.js",
+    "static/media/logo.svg": "/www.bazyl.me/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/www.bazyl.me/index.html",
+    "main.073c9b0a.css.map": "/www.bazyl.me/static/css/main.073c9b0a.css.map",
+    "main.5fba7dd8.js.map": "/www.bazyl.me/static/js/main.5fba7dd8.js.map",
+    "787.26ba3eb8.chunk.js.map": "/www.bazyl.me/static/js/787.26ba3eb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f40be126.js"
+    "static/js/main.5fba7dd8.js"
   ]
 }
