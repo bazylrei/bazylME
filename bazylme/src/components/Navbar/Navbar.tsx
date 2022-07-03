@@ -14,7 +14,6 @@ class Navbar extends Component {
     return (
       <nav className="NavbarItems">
         <h1 className="navbar-logo">ME</h1>
-        <FaReact className="fa-react" />
         <div className="menu-icon" onClick={this.handleClick}>
           {this.state.clicked ? (
             <FaTimes className="fa-times" />
