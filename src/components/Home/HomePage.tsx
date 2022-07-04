@@ -5,7 +5,7 @@ class HomePage extends Component {
         return (
             <div>
                 <h1>
-                    Welcome to my page
+                    Welcome to my pageas
                 </h1>
             </div>
         );
