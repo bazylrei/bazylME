@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { MenuItems } from "./MenuItems";
 import { FaReact, FaTimes, FaBars } from "react-icons/fa";
 import "./Navbar.css";
-import { Link, HashRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import HomePage from "../Home/HomePage";
 import SubPage from "../SubPage/SubPage";
 
